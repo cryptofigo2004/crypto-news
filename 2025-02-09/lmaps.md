@@ -66,7 +66,7 @@
 2. **Undefined Behavior**:
    - If implementations ignore validation, mismatched seed/expandedKey could cause silent failures.
 3. **Competing Standards**:
-   - Mike: "Bandwidth demands might spawn parallel specs (e.g., compressed seeds)."
+   - "Bandwidth demands might spawn parallel specs (e.g., compressed seeds)."
 
 ---
 
